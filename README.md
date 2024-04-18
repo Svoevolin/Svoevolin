@@ -29,8 +29,8 @@
 <summary align="center"><h2>Socials</h2></summary>
 <div align="center">
     <p></p> 
-    <a href="https://t.me/fake_svoevolin" target="_blank"> <img alt="Telegram" height ="42px"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:vanish@internet.ru" target="_blank"> <img alt="Mail" height ="42px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://t.me/fake_svoevolin" target="_blank"> <img alt="Telegram" height ="35px"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:vanish@internet.ru" target="_blank"> <img alt="Mail" height ="35px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <p></p>
 </div>
 </details>  
