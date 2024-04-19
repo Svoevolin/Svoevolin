@@ -36,7 +36,7 @@
 </details>  
 
 <details open>
-<summary align="center"><h2>LeetCode Statistics</h2></summary>
+<summary align="center"><h2>LeetCode</h2></summary>
 <div align="center">
     <p></p> 
     <img alt="Telegram" height ="250px"  src="https://leetcode-stats-six.vercel.app/api?username=Svoevolin&theme=dark" />
