@@ -39,7 +39,7 @@
 <summary align="center"><h2>LeetCode Statistics</h2></summary>
 <div align="center">
     <p></p> 
-    <a href="https://t.me/fake_svoevolin" target="_blank"> <img alt="Telegram" height ="250px"  src="https://leetcode-stats-six.vercel.app/api?username=Svoevolin&theme=dark" /></a>
+    <img alt="Telegram" height ="250px"  src="https://leetcode-stats-six.vercel.app/api?username=Svoevolin&theme=dark" />
     <p></p>
 </div>
 </details>  
