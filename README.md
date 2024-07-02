@@ -34,12 +34,12 @@
     <p></p>
 </div>
 </details>  
-<details open>
+<!-- <details open>
 <summary align="center"><h2>LeetCode</h2></summary>
 <div align="center">
     <p></p> 
     <img alt="leetcode" height ="250px"  src="https://leetcode-stats-six.vercel.app/api?username=Svoevolin&theme=dark" />
     <p></p>
 </div>
-</details>  
+</details>   -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
