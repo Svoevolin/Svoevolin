@@ -30,16 +30,16 @@
 <div align="center">
     <p></p> 
     <a href="https://t.me/fake_svoevolin" target="_blank"> <img alt="Telegram" height ="35px"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:vanish@internet.ru" target="_blank"> <img alt="Mail" height ="35px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:vanish@internet.ru" target="_blank"> <img alt="Mail" height ="35px"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>            
     <p></p>
 </div>
 </details>  
-<!-- <details open>
+<details open>
 <summary align="center"><h2>LeetCode</h2></summary>
 <div align="center">
     <p></p> 
-    <img alt="leetcode" height ="250px"  src="https://leetcode-stats-six.vercel.app/api?username=Svoevolin&theme=dark" />
+    <img alt="leetcode" height ="250px"  src="https://leetcard.jacoblin.cool/Svoevolin?theme=transparent" />
     <p></p>
 </div>
-</details>   -->
+</details>  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
